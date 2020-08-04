@@ -1,0 +1,18 @@
+.controles{
+    width: 600px;
+    display: inline-block;
+    font-size: 30px;
+    height: 550px;
+    margin-left: 100px;
+}
+
+
+.imagen{
+    width:100%;
+    display: inline-block;
+}
+
+.container{
+    width: 500px;
+    display: inline-block;
+}
